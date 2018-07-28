@@ -7,7 +7,7 @@ public class Constants {
 	//public static final String URLHome = "https://in.yahoo.com/?p=us";
 	public static final String ProdForSearch = "P1102";
 	
-//	public static final String Path_TestData = "D://UI AUtomation_Selenium//UI AUtomation_Selenium//src//TestData//TestData.xlsx";
+ //public static final String Path_TestData = "D://Users//Fresh2FWProject//V3Repo//UI_AUtomation_Selenium//bin//TestData//TestData.xlsx";
 	public static final String Path_TestData = "D://Users//Fresh2FWProject//V3Repo//UI_AUtomation_Selenium//src//TestData//TestData.xlsx";
 	
 	//"C://Users//anujksharma//Downloads/Eclipse_NewMachine/eclipseDev (USHYDBGANTASAL6)//UI AUtomation_Selenium/src/TestData//TestData.xlsx";
